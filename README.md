@@ -1,5 +1,5 @@
------------------------
  PRESENTACIÓN
+-----------------------
 
 Componente VUE alimentado por datos mockeados en JSON que muestra información sobre una pieza
 manufacturada (características, controles y medidas) junto con sus grados de calidad.
@@ -9,7 +9,9 @@ modificación aleatoria del JSON. La reactividad de VUE permite que este refresc
 que recargar la página.
 
 -----------------------
+
  INSTALACIÓN Y USO
+-----------------------
 
 Este componente puede utilizarse en un HTML siguiendo estos pasos:
 
@@ -29,7 +31,9 @@ Este componente puede utilizarse en un HTML siguiendo estos pasos:
 3) Copiar y pegar el ```<div id="app">``` en la página HTML
 
 -----------------------
+
  NOTAS ADICIONALES
+-----------------------
 
 Para el layout se ha utilizado tecnología FLEXBOX y GRID.
 
