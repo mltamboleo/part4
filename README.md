@@ -17,15 +17,15 @@ Este componente puede utilizarse en un HTML siguiendo estos pasos:
 
 1) Colocar la carpeta "part" en la raíz que contenga el HTML 
 
-2) Añadir en el &lt;header&gt; del HTML el motor principal de VUE y los estilos de la app.
+2) Añadir en el header del HTML el motor principal de VUE y los estilos de la app.
 *Opcionalmente se ha añadido también la fuente 'Roboto' de Google Fonts
 
-3) Añadir antes de la etiqueta de cierre &lt;/body&gt; el motor JS de la app (incluye todos los componentes utilizados.
+3) Añadir antes de la etiqueta de cierre &lt;/body&gt; el motor JS de la app (incluye todos los componentes utilizados:
 
 <code><script src="part/app.js"></script></code>;
-<code><otro></code>;
 
-3) Copiar y pegar el &lt;div id="app"&gt; en la página HTML
+
+3) Copiar y pegar el ```html<div id="app">``` en la página HTML
 
 -----------------------
  NOTAS ADICIONALES
