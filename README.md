@@ -17,10 +17,10 @@ Este componente puede utilizarse en un HTML siguiendo estos pasos:
 
 1) Colocar la carpeta "part" en la raíz que contenga el HTML 
 
-2) Añadir en el &gtheader&gt; del HTML el motor principal de VUE y los estilos de la app:
+2) Añadir en el <code><header></code> del HTML el motor principal de VUE y los estilos de la app:
 
-<code>&lt;script src="https://cdn.jsdelivr.net/npm/vue@2.6.11/dist/vue.js"&gt;&lt;/script&gt;</code><br>
-&lt;link href="part/app.css" rel="stylesheet"&gt;
+<code><script src="https://cdn.jsdelivr.net/npm/vue@2.6.11/dist/vue.js"></script></code><br>
+<code><link href="part/app.css" rel="stylesheet"></code>
 
 *Opcionalmente se ha añadido también la fuente 'Roboto' de Google Fonts
 
@@ -28,10 +28,10 @@ Este componente puede utilizarse en un HTML siguiendo estos pasos:
 
 utilizados):
 
-&lt;script src="part/app.js"&gt;&lt;/script&gt;
+<code><script src="part/app.js"></script></code>;
 
 
-3) Copiar y pegar el &lt;div id="app"&gt; en la página HTML
+3) Copiar y pegar el <code><div id="app"></code>; en la página HTML
 
 -----------------------
  NOTAS ADICIONALES
