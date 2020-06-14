@@ -20,25 +20,25 @@ Este componente puede utilizarse en un HTML siguiendo estos pasos:
 
 1) Colocar la carpeta "part" en la raíz que contenga el HTML 
 
-2) Añadir en el <header> del HTML el motor principal de VUE y los estilos de la app:
+2) Añadir en el &gtheader&gt; del HTML el motor principal de VUE y los estilos de la app:
 
-<!-- VUE engine  -->
-<script src="https://cdn.jsdelivr.net/npm/vue@2.6.11/dist/vue.js"></script>
+&lt;!-- VUE engine  --&gt;
+&lt;script src="https://cdn.jsdelivr.net/npm/vue@2.6.11/dist/vue.js"&gt;&lt;/script&gt;
 
-<!-- Styles app -->
-<link href="part/app.css" rel="stylesheet">
+&lt;!-- Styles app --&gt;
+&lt;link href="part/app.css" rel="stylesheet"&gt;
 
 *Opcionalmente se ha añadido también la fuente 'Roboto' de Google Fonts
 
-3) Añadir antes de la etiqueta de cierre </body> el motor JS de la app (incluye todos los componentes 
+3) Añadir antes de la etiqueta de cierre &lt;/body&gt; el motor JS de la app (incluye todos los componentes 
 
 utilizados):
 
-<!-- VUE app -->
-<script src="part/app.js"></script>
+&lt;!-- VUE app --&gt;
+&lt;script src="part/app.js"&gt;&lt;/script&gt;
 
 
-3) Copiar y pegar el <div id="app"> en la página HTML
+3) Copiar y pegar el &lt;div id="app"&gt; en la página HTML
 
 -----------------------
  NOTAS ADICIONALES
@@ -56,4 +56,4 @@ Para presentar los controles según los requerimientos (esto es, manteniendo un 
 
 derecha por bloques de información), después de leer los datos del JSON, estos se reagrupan de 4 en 4 
 
-dentro de un <div>.
+dentro de un &lt;div&gt;.

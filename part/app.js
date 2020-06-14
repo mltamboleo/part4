@@ -392,7 +392,7 @@ var app = new Vue({
         }
     },
     methods: {
-        randomData() {
+        randomData() { // Refresco aleatorio de datos cada 10 seg.
             let part = this.part;
             let features = part.features;
 
@@ -428,7 +428,7 @@ var app = new Vue({
                     temparray = controls.slice(i, i + chunk);
                     groups.push(temparray);
                 }
-                features[n].controlGroups = groups; // Creamos nodo de datos con controles agrupados de 4 en 4 para cada feature
+                features[n].controlGroups = groups; // Creamos nodo de datos en el JSON con controles agrupados de 4 en 4 para cada feature
             }
             let _this = this;
             setTimeout(function () { _this.randomData() }, 10000);
