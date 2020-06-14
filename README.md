@@ -9,7 +9,6 @@ modificación aleatoria del JSON. La reactividad de VUE permite que este refresc
 que recargar la página.
 
 -----------------------
-
  INSTALACIÓN Y USO
 -----------------------
 
@@ -28,10 +27,9 @@ Este componente puede utilizarse en un HTML siguiendo estos pasos:
 
 ```<script src="part/app.js"></script>```
 
-3) Copiar y pegar el ```<div id="app">``` en la página HTML
+4) Copiar y pegar el ```<div id="app">``` en la página HTML
 
 -----------------------
-
  NOTAS ADICIONALES
 -----------------------
 
