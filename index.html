@@ -16,7 +16,7 @@
 <body>
     <!-- Main -->
     <div id="app">
-        <h1 class="part__name">* Part {{ part.name }} *</h1>
+        <h1 class="part__name">Part {{ part.name }}</h1>
         <div class="container">
             <!-- Component (loop) -->
             <div class="feature" v-for="feature in part.features" :class="gridSpan(feature)">
