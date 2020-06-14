@@ -1,5 +1,5 @@
 -----------------------
- PRESENTACIÓN
+ *PRESENTACIÓN
 -----------------------
 
 Componente VUE alimentado por datos mockeados en JSON que muestra información sobre una pieza
