@@ -19,7 +19,7 @@ Este componente puede utilizarse en un HTML siguiendo estos pasos:
 
 2) Añadir en el &gtheader&gt; del HTML el motor principal de VUE y los estilos de la app:
 
-&lt;script src="https://cdn.jsdelivr.net/npm/vue@2.6.11/dist/vue.js"&gt;&lt;/script&gt;
+<code>&lt;script src="https://cdn.jsdelivr.net/npm/vue@2.6.11/dist/vue.js"&gt;&lt;/script&gt;</code><br>
 &lt;link href="part/app.css" rel="stylesheet"&gt;
 
 *Opcionalmente se ha añadido también la fuente 'Roboto' de Google Fonts
