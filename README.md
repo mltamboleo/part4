@@ -43,4 +43,4 @@ elemento (falta especificación desde requerimientos).
 
 Para presentar los controles según los requerimientos (esto es, manteniendo un flow de izquierda a
 derecha por bloques de información), después de leer los datos del JSON, estos se reagrupan de 4 en 4 
-dentro de un &lt;div&gt;.
+dentro de un ```<div>```.
