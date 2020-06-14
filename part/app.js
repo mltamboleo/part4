@@ -431,7 +431,7 @@ var app = new Vue({
                 features[n].controlGroups = groups; // Creamos nodo de datos con controles agrupados de 4 en 4 para cada feature
             }
             let _this = this;
-            setTimeout(function () { _this.randomData() }, 2000);
+            setTimeout(function () { _this.randomData() }, 10000);
         },
         gridSpan(feature) {
             let c_length = feature.controls.length;
